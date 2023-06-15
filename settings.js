@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6281236167286'] //ur owner number
-global.ownernomer = "6281236167286" //ur owner number2
-global.ownername = "FallZx" //ur owner name
-global.ytname = "YT: FallXD425" //ur yt chanel name
-global.socialm = "GitHub: FallEzz" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6285163522275'] //ur owner number
+global.ownernomer = "6285163522275" //ur owner number2
+global.ownername = "Daffa Pratama Nur Ardiansyah" //ur owner name
+global.ytname = "YT : Daffa Pratama Nur Ardiansyah" //ur yt chanel name
+global.socialm = "GitHub : daffapratamaaa" //ur github or insta name
+global.location = "Toyareja, Purbalingga, Jawa Tengah, Indonesia" //ur location
 
 //new
-global.botname = "Fxyz Botz - MD"
-global.ownernumber = '6281236167286'
-global.ownername = '6281236167286'
-global.ownerNumber = ["6281236167286@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@4KSanzz"
-global.websitex = "https://linktr.ee/fxyz_"
-global.wagc = "https://chat.whatsapp.com/CfxAwJYP6Rl2J4uOwgavBh"
+global.botname = "Daffa Pratama Botz - MD"
+global.ownernumber = '6285163522275'
+global.ownername = '6285163522275'
+global.ownerNumber = ["6285163522275@s.whatsapp.net"]
+global.ownerweb = "https://www.youtube.com/@daffapratamanurardiansyah"
+global.websitex = "https://www.daffa-pratama.my.id"
+global.wagc = "-"
 global.themeemoji = '🥀'
-global.wm = "Fxyz"
-global.botscript = 'Silahkan Datang Ke Channel 4K Sanzz' //script link
-global.packname = "Ig-fhl.dx17"
-global.author = "4K Sanzz"
-global.creator = "6281236167286@s.whatsapp.net"
+global.wm = "Daffa Pratama"
+global.botscript = 'Silahkan Datang Ke Channel Daffa Pratama Nur Ardiansyah' //script link
+global.packname = "Instagram : daffapratamanurardiansyah"
+global.author = "Daffa Pratama Nur Ardiansyah"
+global.creator = "6285163522275@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
